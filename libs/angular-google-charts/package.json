@@ -28,11 +28,11 @@
     "tslib": "^2.6.2"
   },
   "peerDependencies": {
-    "@angular/common": "^17.3.4",
-    "@angular/core": "^17.3.4"
+    "@angular/common": ">=6.0.0",
+    "@angular/core": ">=6.0.0"
   },
   "devDependencies": {
-  "@angular-builders/jest": "17.0.2",
+    "@angular-builders/jest": "17.0.2",
     "@angular-devkit/build-angular": "^17.3.2",
     "@angular/cli": "^17.3.2",
     "@angular/compiler-cli": "^17.3.2",

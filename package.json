@@ -6,9 +6,9 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve playground -o",
-    "build": "ng build angular-google-charts --configuration production",
-    "build:watch": "ng build angular-google-charts --configuration production --watch",
-    "test": "ng test angular-google-charts --coverage",
+    "build": "ng build @horselessforks/angular-google-charts --configuration production",
+    "build:watch": "ng build @horselessforks/angular-google-charts --configuration production --watch",
+    "test": "ng test @horselessforks/angular-google-charts --coverage",
     "lint": "ng lint playground",
     "release": "standard-version"
   },
